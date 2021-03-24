@@ -11,6 +11,6 @@
 命令： python nwdetection.py
 ![Image text](https://github.com/d3ckx1/nwdetection/blob/main/WechatIMG515.jpeg)
 
-跑完后，存储到同目录下 “localip.txt” 中
+跑完后，存活的IP都存储到同目录下 “localip.txt” 中
 
 ![Image text](https://github.com/d3ckx1/nwdetection/blob/main/WechatIMG516.jpeg)
